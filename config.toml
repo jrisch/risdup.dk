@@ -1,3 +1,4 @@
 baseURL = 'https://risdup.dk/'
 languageCode = 'en-us'
 title = 'Risdup.dk'
+theme = "hugo-theme-shell"
