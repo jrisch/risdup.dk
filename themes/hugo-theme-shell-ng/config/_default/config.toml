@@ -1,5 +1,5 @@
-baseURL = "https://www.example.com/"
-title = "Shell"
+baseURL = "https://risdup.dk/"
+title = "Risdup.dk"
 author = "Juri Rischel Jensen"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
